@@ -1,0 +1,77 @@
+{
+  "general": {
+    "siteName": "Manav Patel",
+    "jobTitle": "Technical Support Specialist"
+  },
+  "navigation": {
+    "links": [
+      { "name": "Home", "id": "home" },
+      { "name": "About Me", "id": "about" },
+      { "name": "Projects", "id": "projects" }
+    ]
+  },
+  "social": {
+    "github": "",
+    "linkedin": "https://linkedin.com/in/manav-patel",
+    "email": "manav0282@gmail.com"
+  },
+  "home": {
+    "hero": {
+      "greeting": "Hello, I'm",
+      "heading": "a Technical Support Specialist!",
+      "description": "Resolving complex technical issues with expertise in Linux, networking, and customer support."
+    },
+    "intro": {
+      "heading": "Customer-Focused Problem Solver",
+      "description1": "I'm a Technical Support Specialist with over 2 years of hands-on experience resolving complex software, hardware, and networking issues in high-volume environments. My focus is on providing excellent customer support while efficiently troubleshooting technical problems.",
+      "description2": "Proficient in Linux systems, remote support tools, and ticketing systems like Zendesk and Jira. I have a strong understanding of DNS, TCP/IP, and VPN configurations, and I'm continuously expanding my skills in frontend development and DevOps practices."
+    }
+  },
+  "about": {
+    "heading": "Technical Support Specialist",
+    "description": "Customer-focused Technical Support Specialist with a proven track record in resolving complex technical issues. Experienced in Linux/Windows environments, network configuration (DNS, TCP/IP, VPNs), and utilizing ticketing systems like Zendesk and Jira. Committed to delivering exceptional support, building strong customer relationships, and continuously learning new technologies, including frontend development (React, Next.js) and scripting.",
+    "sections": [],
+    "professionalJourney": {
+      "title": "Professional Journey",
+      "timeline": [
+        {
+          "year": "Feb 2025 - Present",
+          "title": "Technical Support Representative",
+          "company": "Concentrix",
+          "description": "Provided technical support via phone, email, and chat, diagnosing account, software, and networking problems. Maintained ticket workflows using Zendesk and adhered to SLAs."
+        },
+        {
+          "year": "May 2024 - Feb 2025",
+          "title": "Sales Representative",
+          "company": "The Mobile Shop",
+          "description": "Provided product recommendations and mobile activations, achieving sales targets and building client relationships."
+        },
+        {
+          "year": "Sep 2023 - Apr 2024",
+          "title": "IT Help Desk Technician",
+          "company": "St. Clair College",
+          "description": "Supported students and staff with hardware/software issues in Windows and Linux environments. Resolved tickets using Jira and assisted with network troubleshooting."
+        },
+        {
+            "year": "Jan 2023 - Mar 2024",
+            "title": "Customer Service Representative",
+            "company": "Walmart",
+            "description": "Handled customer inquiries, billing disputes, and product troubleshooting."
+        },
+        {
+          "year": "Graduated Apr 2024",
+          "title": "Diploma in Computer Networking",
+          "company": "St. Clair College",
+          "description": "Studied IP networking, system administration, security, routing & switching. Completed a capstone project building a secure LAN."
+        }
+      ]
+    }
+  },
+  "projects": {
+    "heading": "My Projects",
+    "description": "Explore my work, including my academic capstone project."
+  },
+  "footer": {
+    "copyright": "© 2025 Manav Patel"
+  }
+} 

@@ -1,0 +1,14 @@
+[
+  { "name": "Linux Admin", "icon": "FaLinux" },
+  { "name": "Windows Admin", "icon": "FaWindows" },
+  { "name": "Networking (TCP/IP, DNS, DHCP)", "icon": "FaNetworkWired" },
+  { "name": "VPN", "icon": "FaLock" },
+  { "name": "Troubleshooting", "icon": "FaWrench" },
+  { "name": "Remote Support", "icon": "FaHeadset" },
+  { "name": "Zendesk", "icon": "FaTicketAlt" },
+  { "name": "Jira", "icon": "FaTasks" },
+  { "name": "Git", "icon": "FaGitAlt" },
+  { "name": "Bash Scripting", "icon": "FaTerminal" },
+  { "name": "Customer Support", "icon": "FaUsers" },
+  { "name": "Next.js (Learning)", "icon": "FaCode" }
+] 

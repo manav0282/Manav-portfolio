@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Inter:wght@300;400;500;700&family=Patrick+Hand&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 201, 209, 217;
+  --background-rgb: 13, 17, 23;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+  font-family: 'Inter', sans-serif;
+  position: relative;
+}
+
+h1, h2, h3 {
+  font-family: 'Caveat', cursive;
+}
+
+h4, h5, h6 {
+  font-family: 'Patrick Hand', cursive;
+}
+
+@layer components {
+  .btn {
+    @apply px-6 py-2 rounded-lg font-medium transition-all duration-300 transform hover:scale-105 relative overflow-hidden;
+  }
+  
+  .btn-primary {
+    @apply bg-primary/20 text-primary border border-primary hover:bg-primary/30 hover:shadow-neon-blue;
+  }
+  
+  .btn-secondary {
+    @apply bg-secondary/20 text-secondary border border-secondary hover:bg-secondary/30 hover:shadow-neon-coral;
+  }
+  
+  .btn-accent {
+    @apply bg-primary/20 text-primary border border-primary hover:bg-primary/30 hover:shadow-neon-blue;
+  }
+  
+  .card {
+    @apply bg-dark-card/80 backdrop-blur-sm rounded-xl shadow-md overflow-hidden transition-all duration-300 border border-dark-border;
+  }
+  
+  .card-hover {
+    @apply hover:shadow-lg hover:scale-[1.02] hover:border-primary hover:shadow-neon-blue;
+  }
+  
+  .section {
+    @apply py-16 px-4 md:px-8 max-w-7xl mx-auto;
+  }
+}

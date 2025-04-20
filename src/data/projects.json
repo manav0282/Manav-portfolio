@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "title": "Secure LAN Capstone Project",
+    "description": "Designed and implemented a secure Local Area Network (LAN) utilizing routers, Virtual Private Networks (VPNs), and firewalls as part of the Computer Networking diploma capstone project.",
+    "tags": ["Networking", "Security", "VPN", "Firewalls"],
+    "githubLink": ""
+  }
+]
